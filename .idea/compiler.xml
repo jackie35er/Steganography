@@ -9,5 +9,8 @@
         <module name="Steganography" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Steganography" target="15" />
+    </bytecodeTargetLevel>
   </component>
 </project>
